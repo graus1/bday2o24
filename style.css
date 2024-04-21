@@ -9,3 +9,7 @@ color: #51ff00;
   flex-direction: row;
   align-items: stretch;
 }
+
+h2, h3 {
+  text-align: center;
+}
